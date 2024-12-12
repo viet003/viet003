@@ -1,3 +1,8 @@
+<!-- vietanhne -->
+<a href="#" target="_blank">
+  <img src="svg/vietdinh.svg" width="1200" alt="vietdinhne" />
+</a>
+
 <h1 align="center">Hi 👋, I'm Viet Anh</h1>
 <h3 align="center">I am a final-year student at Phenikaa University, majoring in Software Developer.</h3>
 
