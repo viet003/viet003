@@ -3,17 +3,6 @@
   <img src="svg/vietdinh.svg" width="1200" alt="vietdinhne" />
 </a>
 
-<h1 align="center">Hi 👋, I'm Viet Anh</h1>
-<h3 align="center">I am a final-year student at Phenikaa University, majoring in Software Developer.</h3>
-
-- 🔭 I’m currently working on **Web-App**
-
-- 🌱 I’m currently learning **Spring**
-
-- 💬 Ask me about **React, NodeJS**
-
-- 📫 How to reach me **dinhbavietanh2103@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/việt-anh-đinh-413374341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/việt-anh-đinh-413374341" height="30" width="40" /></a>
